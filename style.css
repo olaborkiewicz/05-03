@@ -1,0 +1,8 @@
+.cirle {
+  display: block;
+  width: 33%;
+  border-radius: 50%;
+  border: 3px solid rgb(227, 142, 13);
+  aspect-ratio: 1;
+  margin: auto;
+}
